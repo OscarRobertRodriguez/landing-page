@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":";AACAA,QAAQC,IAAI","file":"landing-page.425a4671.map","sourceRoot":"..","sourcesContent":["\nconsole.log('hello world');\n"]}
